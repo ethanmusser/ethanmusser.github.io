@@ -11,9 +11,9 @@ horizontal: false
 
 <!-- TODO: Insert projects to replace the following. -->
 
-Projects coming soon!
+Project pages coming soon!
 
-<!-- pages/projects.md
+pages/projects.md
 <div class="projects">
 {%- if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
@@ -59,4 +59,4 @@ Projects coming soon!
   </div>
   {%- endif -%}
 {%- endif -%}
-</div> -->
+</div>
