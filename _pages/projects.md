@@ -9,7 +9,7 @@ display_categories: [work, school, fun]
 horizontal: false
 ---
 
-# TODO: Insert projects to replace the following.
+<!-- TODO: Insert projects to replace the following. -->
 
 Projects coming soon!
 

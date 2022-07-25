@@ -22,7 +22,7 @@
       location: Philadelphia, Pennsylvania
       year: May 2022
       description:
-        - "GPA: 3.73/4.00"
+        - GPA&#58; 3.73/4.00
         - title: Notable Coursework&#58;
           contents:
             - Model Predictive Control
