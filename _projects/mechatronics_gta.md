@@ -2,7 +2,7 @@
 layout: page
 title: Grand Theft Autonomous
 description: mechatornics final project and competition
-img: assets/img/mechatronics-gta/robot.jpg
+img: assets/img/projects/mechatronics-gta/robot.jpg
 importance: 3
 category: school
 ---
